@@ -1,5 +1,7 @@
 # Splinter Cell Blacklist Fps Fix
-Fixes performance stutters in Splinter Cell Blacklist game
+Fixes performance stutters in Splinter Cell Blacklist game.
+
+Supports adding other games which may require setting CPU affinity. Modify processlist.txt (add new line for each process) to add a new game.
 
 # How to use
 1. Launch the game
